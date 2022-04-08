@@ -1,4 +1,4 @@
-THis is a test for class
+This is a test for class -first line edit JM
 It is only for practice 
 No actual value
 
